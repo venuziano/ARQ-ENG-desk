@@ -1,0 +1,189 @@
+-- Creator:       MySQL Workbench 8.0.17/ExportSQLite Plugin 0.1.0
+-- Author:        RRS
+-- Caption:       New Model
+-- Project:       Name of the project
+-- Changed:       2019-08-16 00:24
+-- Created:       2019-08-07 21:38
+--PRAGMA foreign_keys = OFF;
+
+
+--ALTERAÇÃO 15/11 - nova tabela "anexos"
+create table anexos(
+id serial PRIMARY KEY NOT NULL,
+nome varchar not null,
+ref_source int not null,
+family int not null,
+ref_usuario int not null,
+dt_criacao varchar not null,
+path varchar not null,
+    CONSTRAINT fk_anexos_usuario
+    FOREIGN KEY (ref_usuario)
+    REFERENCES usuarios (id)
+)
+
+
+--ALTERAÇÃO 12/11
+
+alter table projetos add situacao int not null;
+alter table projetos add dt_criacao varchar not null;
+
+--------------------------------------------
+
+--ALTERAÇÃO 28/09 -- ADIÇÃO DE FACES E RELAÇÃO FACE-MATERIAIS
+
+CREATE TABLE faces (
+  id serial PRIMARY KEY NOT NULL,
+  descricao VARCHAR(45) NOT NULL,
+  tipo INT NOT NULL,
+  orientacao_solar VARCHAR(20) NOT NULL,
+  radiacao_solar_ins DECIMAL NOT NULL,
+  resistencia_total DECIMAL NULL,
+  transmitancia DECIMAL NULL,
+  fluxo_opaco DECIMAL NULL,
+  fluxo_transparente DECIMAL NULL,
+  area DECIMAL NOT NULL,
+  absorvidade_tinta DECIMAL NOT NULL,
+  carga_fluxo_opaco DECIMAL NULL,
+  carga_fluxo_transparente DECIMAL NULL,
+  ref_comodo INT NOT NULL,
+  CONSTRAINT fk_faces_comodos
+    FOREIGN KEY (ref_comodo)
+    REFERENCES comodos_projetos (id)
+);
+CREATE INDEX fk_faces_comodos_idx ON faces (ref_comodo);
+
+CREATE TABLE "materiais_face"(
+  "faces_id" INTEGER NOT NULL,
+  "materiais_id" INTEGER NOT NULL,
+  "resistencia" DECIMAL,
+  "espessura" DECIMAL,
+  "transmitancia_v" DECIMAL,
+  "fator_solar" DECIMAL,
+  PRIMARY KEY("faces_id","materiais_id"),
+  CONSTRAINT "fk_faces_has_materiais_faces1"
+    FOREIGN KEY("faces_id")
+    REFERENCES "faces"("id"),
+  CONSTRAINT "fk_faces_has_materiais_materiais1"
+    FOREIGN KEY("materiais_id")
+    REFERENCES "materiais"("id")
+);
+CREATE INDEX "materiais_face.fk_faces_has_materiais_materiais1_idx" ON "materiais_face" ("materiais_id");
+CREATE INDEX "materiais_face.fk_faces_has_materiais_faces1_idx" ON "materiais_face" ("faces_id");
+
+-- ATUALIZAR tabela de materiais!!!!!!!!!
+
+-----------------------------------------------------------------------------------------------------------------------
+
+--ALTERAÇÃO 14/09 -- ADICIONAR COMODOS AO PROJETO
+
+CREATE TABLE "comodos_projetos"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "nome" VARCHAR(45) NOT NULL,
+  "carga_termica_t" DECIMAL,
+  "ref_projeto" INTEGER NOT NULL,
+  CONSTRAINT "fk_comodos_projetos_projetos1"
+    FOREIGN KEY("ref_projeto")
+    REFERENCES "projetos"("id")
+);
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-- PRIMEIRA VERSÃO
+BEGIN;
+CREATE TABLE "equipes"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "nome" VARCHAR(45) NOT NULL,
+  "info" VARCHAR(400)
+);
+
+CREATE TABLE "materiais"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "nome" VARCHAR(40) NOT NULL,
+  "condutividade" DECIMAL NOT NULL,
+  "situacao" INTEGER NOT NULL,
+  "tipo" INTEGER NOT NULL,
+  "info" VARCHAR(400)
+);
+
+CREATE TABLE "auditoria"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "id_autor" INTEGER NOT NULL,
+  "autor" VARCHAR(45) NOT NULL,
+  "data" TIMESTAMP NOT NULL,
+  "tipo" VARCHAR(20) NOT NULL,
+  "info" VARCHAR(400) NOT NULL
+);
+
+CREATE TABLE "usuarios"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "nome" VARCHAR(80) NOT NULL,
+  "login" VARCHAR(20) NOT NULL,
+  "senha" VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE "projetos"(
+  "id" serial PRIMARY KEY NOT NULL,
+  "ref_equipe" INTEGER NOT NULL,
+  "nome" VARCHAR(45) NOT NULL,
+  "info" VARCHAR(400),
+  "rtt" DECIMAL,
+  "transmitancia" DECIMAL,
+  CONSTRAINT "fk_projetos_equipes1"
+    FOREIGN KEY("ref_equipe")
+    REFERENCES "equipes"("id")
+);
+CREATE INDEX "projetos.fk_projetos_equipes1_idx" ON "projetos" ("ref_equipe");
+
+CREATE TABLE "usuarios_equipe"(
+  "ref_usuario" INTEGER NOT NULL,
+  "ref_equipe" INTEGER NOT NULL,
+  PRIMARY KEY("ref_usuario","ref_equipe"),
+  CONSTRAINT "fk_usuarios_has_equipes_usuarios1"
+    FOREIGN KEY("ref_usuario")
+    REFERENCES "usuarios"("id"),
+  CONSTRAINT "fk_usuarios_has_equipes_equipes1"
+    FOREIGN KEY("ref_equipe")
+    REFERENCES "equipes"("id")
+);
+CREATE INDEX "usuarios_equipe.fk_usuarios_has_equipes_equipes1_idx" ON "usuarios_equipe" ("ref_equipe");
+CREATE INDEX "usuarios_equipe.fk_usuarios_has_equipes_usuarios1_idx" ON "usuarios_equipe" ("ref_usuario");
+
+CREATE TABLE permissoes (
+  id SERIAL PRIMARY KEY NOT NULL,
+  acao VARCHAR(50) NOT NULL,
+  origem VARCHAR(50) NOT NULL,
+  "ref_usuario" INTEGER NOT NULL,
+  "status" INTEGER NOT NULL,
+  CONSTRAINT "fk_permissao_usuario"
+    FOREIGN KEY("ref_usuario")
+    REFERENCES "usuarios"("id")
+);
+CREATE INDEX "permissoes.fk_projetos_usuario_idx" ON "permissoes" ("ref_usuario");
+  
+COMMIT;
+
+############################################################
+trigger function
+
+
+
+
+CREATE OR REPLACE FUNCTION calcular_RT()
+  RETURNS trigger AS 
+$BODY$
+DECLARE
+    cap INTEGER;
+BEGIN
+    SELECT espessura, condutividade FROM materiais WHERE id = NEW.id INTO cap;
+    NEW.rt = (new.espessura / NEW.condutividade);
+    RETURN NEW;
+END;
+$BODY$
+LANGUAGE plpgsql;
+
+CREATE TRIGGER tg_calcular_RT BEFORE INSERT OR UPDATE ON materiais FOR EACH ROW EXECUTE PROCEDURE calcular_RT();
+
+	--cria a sequencia pra tabela. usar se der pau no hibernate
+	CREATE SEQUENCE materiais_id_seq;
+	--altera o id pra usar a sequencia criada
+	ALTER TABLE materiais ALTER COLUMN espessura SET decimal(10,6);

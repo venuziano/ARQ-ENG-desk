@@ -1,0 +1,34 @@
+
+---------------------------------      FUNÇÕES UTILIZADAS NO PROJETO      --------------------------------- 
+
+
+----------------------------------------------------
+--replica permissões
+CREATE OR REPLACE FUNCTION replica_permissoes(id_origem int, id_novo int)
+RETURNS void AS
+$BODY$
+
+delete from permissoes_usuario where usuarios_id = id_novo;
+
+INSERT INTO permissoes_usuario (permissoes_id, usuarios_id, status)
+SELECT pu.permissoes_id, id_novo, pu.status
+FROM permissoes_usuario pu, usuarios u
+WHERE pu.usuarios_id = u.id and pu.usuarios_id = id_origem
+
+$BODY$
+LANGUAGE sql VOLATILE
+COST 100;
+
+----------------------------------------------------
+--remove acento
+CREATE OR REPLACE FUNCTION remove_acento(text)
+RETURNS text AS
+$BODY$
+
+SELECT TRANSLATE($1,'áàãâäÁÀÃÂÄéèêëÉÈÊËíìîïÍÌÎÏóòõôöÓÒÕÔÖúùûüÚÙÛÜñÑçÇÿýÝ','aaaaaAAAAAeeeeEEEEiiiiIIIIoooooOOOOOuuuuUUUUnNcCyyY')
+
+$BODY$
+LANGUAGE sql IMMUTABLE STRICT
+COST 100;
+
+----------------------------------------------------

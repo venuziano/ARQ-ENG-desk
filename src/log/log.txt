@@ -1,0 +1,547 @@
+HORA: Fri Oct 04 08:41:42 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Oct 04 08:46:48 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Oct 04 08:48:17 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Oct 04 08:48:27 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:10:39 BRT 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Wed Oct 23 13:11:41 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:15:26 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:17:25 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:17:46 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:24:03 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:31:48 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:44:11 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:45:45 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 13:45:45 BRT 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: entidade.ComodosProjetos
+HORA: Wed Oct 23 13:46:54 BRT 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: entidade.ComodosProjetos
+HORA: Wed Oct 23 13:48:08 BRT 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: entidade.ComodosProjetos
+HORA: Wed Oct 23 14:00:36 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:00:36 BRT 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: entidade.ComodosProjetos
+HORA: Wed Oct 23 14:21:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:01 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:02 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:27 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:27 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:39 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:25:42 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:32:57 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:36:12 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:36:12 BRT 2019 | ERRO: java.lang.IllegalArgumentException: attempt to create merge event with null entity
+HORA: Wed Oct 23 14:36:12 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:36:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:36:23 BRT 2019 | ERRO: java.lang.IllegalArgumentException: attempt to create merge event with null entity
+HORA: Wed Oct 23 14:36:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:37:18 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:37:18 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:40:07 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Oct 23 14:40:08 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:53:29 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:53:31 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:57:35 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:57:35 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:57:49 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 08:57:49 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 09:03:51 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 09:05:30 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 09:59:08 BRT 2019 | ERRO: org.hibernate.LazyInitializationException: failed to lazily initialize a collection of role: entidade.ComodosProjetos.facesCollection, could not initialize proxy - no Session
+HORA: Thu Oct 24 10:01:54 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:16:28 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:17:43 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:22:49 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:22:49 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:26:21 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 13:26:43 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 19:45:36 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 19:46:19 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 19:46:20 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 19:47:03 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 19:55:37 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:07:20 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:07:20 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:09:38 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:09:38 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:10:35 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:10:53 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:11:19 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:11:19 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:11:19 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:11:44 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:42:09 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:42:09 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:42:13 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:52:45 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:52:45 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:52:48 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:54:29 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:54:29 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:54:32 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:55:31 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:55:31 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 20:55:56 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:00:04 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:00:22 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:00:22 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:00:26 BRT 2019 | ERRO: javax.persistence.EntityNotFoundException: Unable to find entidade.Faces with id 12
+HORA: Thu Oct 24 21:05:46 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:12 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:12 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:17 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:40 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:40 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:09:50 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:11:24 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:11:36 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:15:15 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:15:15 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:16:54 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:16:55 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:17:31 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:17:32 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:19:27 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:20:09 BRT 2019 | ERRO: java.lang.NumberFormatException: empty String
+HORA: Thu Oct 24 21:20:30 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:20:30 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:21:16 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:22:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:22:23 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:29:55 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:29:56 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Oct 24 21:29:56 BRT 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:11:27 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:12:20 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:12:23 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:12:26 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:12:30 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:12:33 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:16:25 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:17:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:22:41 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:22:41 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:24:49 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:28:56 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:29:25 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:29:59 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:30:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:30:48 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:31:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:31:20 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:31:34 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:31:34 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:31:36 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:01 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:01 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:02 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:39 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:39 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:32:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:34:36 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:34:36 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:34:37 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:04 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:04 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:04 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 15:35:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:08:03 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:09:01 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:09:44 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:11:14 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:11:22 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:11:31 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:11:41 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:11:52 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:28 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:28 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:29 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:39 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:39 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:39 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:51 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:51 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:12:52 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:14:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:14:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:14:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:14:19 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:18:52 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:18:52 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:18:52 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:16 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:16 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:17 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:26 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:26 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:26 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:35 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:35 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:36 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:45 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:45 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:45 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:53 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:53 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:54 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:19:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:20:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:20:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:20:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:25:35 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:53:23 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:53:23 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:53:23 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:53:23 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:55:05 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:55:05 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:55:06 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:55:06 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:56:02 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:56:02 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:56:02 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:56:02 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 16:59:03 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:01:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:01:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:09:27 GMT-03:00 2019 | ERRO: java.lang.NumberFormatException: empty String
+HORA: Tue Nov 05 17:10:05 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:10:05 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:10:53 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:12:09 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:12:09 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:12:43 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:12:43 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:12:43 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:14:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:14:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:14:40 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:08 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:17 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:17 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:15:17 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:18:18 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:21:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:21:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:21:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 17:21:58 GMT-03:00 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:34:56 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:34:59 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:35:02 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:35:05 BRST 2019 | ERRO: javax.persistence.EntityNotFoundException: Unable to find entidade.Faces with id 5
+HORA: Tue Nov 05 22:35:08 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:35:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:35:27 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:36:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:36:32 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:37:18 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:37:21 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:37:23 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:47:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:48:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:48:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:49:04 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:49:13 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:49:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:49:47 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:49:53 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:50:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:50:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:50:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:50:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:00 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:00 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:01 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:06 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:26 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:26 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:32 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 22:51:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 05 23:01:57 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:02:25 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:13 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:13 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:24 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 07 00:50:24 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:42:23 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Projetos.situacao
+HORA: Tue Nov 12 22:44:42 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Tue Nov 12 22:49:08 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Tue Nov 12 22:50:19 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 22:51:40 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Tue Nov 12 22:53:06 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:53:13 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:55:24 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Tue Nov 12 22:58:59 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:59:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:59:23 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 22:59:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:00:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:12:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:12:42 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:13:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:13:15 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:13:22 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not execute statement
+HORA: Tue Nov 12 23:13:22 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:13:57 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:18:13 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:32:46 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:33:57 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:34:15 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:34:22 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:34:28 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:34:34 BRST 2019 | ERRO: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Tue Nov 12 23:35:17 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:02 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:28 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:36 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:40 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:37:43 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 12 23:40:20 BRST 2019 | ERRO: javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+HORA: Tue Nov 12 23:41:55 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 13 23:28:43 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.SQLGrammarException: could not extract ResultSet
+HORA: Wed Nov 13 23:30:36 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:30:46 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:31:09 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:31:14 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 13 23:31:15 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:31:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 13 23:31:35 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:32:04 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:32:25 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:32:48 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:32:50 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:32:52 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:33:44 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:34:24 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:35:29 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyAccessException: Null value was assigned to a property [class entidade.Projetos.situacao] of primitive type setter of entidade.Projetos.situacao
+HORA: Wed Nov 13 23:43:57 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 13 23:45:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:03:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:07:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:07:25 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:07:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:07:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:11:42 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:11:50 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Thu Nov 14 00:12:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:25 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:28 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:28 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:28 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:33 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:47 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:47 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:47 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:53 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:53 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:12:53 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:10 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:10 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:10 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:15 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:15 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:15 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:24 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:24 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:39 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:39 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:50 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:50 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 00:13:50 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:50:51 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:03 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:03 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:08 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:08 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:08 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:16 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:16 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Thu Nov 14 21:51:16 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 15 03:30:13 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 15 03:30:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 15 03:30:23 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 15 03:31:21 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 15 03:31:26 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:01:37 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Anexos.refUsuario
+HORA: Sun Nov 17 02:05:07 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.exception.ConstraintViolationException: could not execute statement
+HORA: Sun Nov 17 02:05:58 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:06:32 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:32:53 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:33:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:49:08 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:49:14 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:50:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:50:18 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:50:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:51:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:51:38 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:53:50 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:54:36 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:55:28 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:55:45 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 02:56:36 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: anexos is not mapped [select a FROM anexos a WHERE a.refSource =66]
+HORA: Sun Nov 17 02:58:11 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: anexos is not mapped [select a FROM anexos a WHERE a.refSource =66]
+HORA: Sun Nov 17 03:00:05 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: anexos is not mapped [select a FROM anexos a WHERE a.refSource =66]
+HORA: Sun Nov 17 03:08:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 03:08:20 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 03:09:46 BRST 2019 | ERRO: java.lang.ClassCastException: entidade.Projetos cannot be cast to entidade.Anexos
+HORA: Sun Nov 17 03:09:47 BRST 2019 | ERRO: java.lang.ClassCastException: entidade.Projetos cannot be cast to entidade.Anexos
+HORA: Sun Nov 17 03:11:02 BRST 2019 | ERRO: java.lang.ClassCastException: entidade.Projetos cannot be cast to entidade.Anexos
+HORA: Sun Nov 17 03:11:27 BRST 2019 | ERRO: java.lang.ClassCastException: entidade.Projetos cannot be cast to entidade.Anexos
+HORA: Sun Nov 17 03:19:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 03:19:21 BRST 2019 | ERRO: java.lang.IllegalArgumentException: Parameter value [%66%] did not match expected type [java.lang.Integer (n/a)]
+HORA: Sun Nov 17 03:21:41 BRST 2019 | ERRO: java.lang.IllegalArgumentException: Parameter value [%66%] did not match expected type [java.lang.Integer (n/a)]
+HORA: Sun Nov 17 03:30:44 BRST 2019 | ERRO: java.lang.IllegalArgumentException: Parameter value [%66%] did not match expected type [java.lang.Integer (n/a)]
+HORA: Sun Nov 17 03:30:55 BRST 2019 | ERRO: java.lang.IllegalArgumentException: Parameter value [%12%] did not match expected type [java.lang.Integer (n/a)]
+HORA: Sun Nov 17 03:32:30 BRST 2019 | ERRO: java.lang.IllegalArgumentException: Parameter value [%12%] did not match expected type [java.lang.Integer (n/a)]
+HORA: Sun Nov 17 03:35:07 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 03:36:15 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Auditoria.info
+HORA: Sun Nov 17 03:37:44 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Auditoria.info
+HORA: Sun Nov 17 03:39:54 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Auditoria.info
+HORA: Sun Nov 17 15:02:57 BRST 2019 | ERRO: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+HORA: Sun Nov 17 15:02:57 BRST 2019 | ERRO: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+HORA: Sun Nov 17 15:04:09 BRST 2019 | ERRO: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+HORA: Sun Nov 17 15:04:09 BRST 2019 | ERRO: java.lang.ClassCastException: java.lang.String cannot be cast to java.lang.Integer
+HORA: Sun Nov 17 15:16:14 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'ge.txt' [select a FROM entidade.Anexos a WHERE a.nome =ge.txt]
+HORA: Sun Nov 17 15:16:14 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'ge.txt' [select a FROM entidade.Anexos a WHERE a.nome =ge.txt]
+HORA: Sun Nov 17 15:20:42 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'geo.txt' [select a FROM entidade.Anexos a WHERE a.nome =geo.txt]
+HORA: Sun Nov 17 15:22:50 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'geo.txt' [select a FROM entidade.Anexos a WHERE a.nome =geo.txt]
+HORA: Sun Nov 17 15:22:52 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'geo.txt' [select a FROM entidade.Anexos a WHERE a.nome =geo.txt]
+HORA: Sun Nov 17 15:22:53 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'geo.txt' [select a FROM entidade.Anexos a WHERE a.nome =geo.txt]
+HORA: Sun Nov 17 15:22:53 BRST 2019 | ERRO: java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: Invalid path: 'geo.txt' [select a FROM entidade.Anexos a WHERE a.nome =geo.txt]
+HORA: Sun Nov 17 15:33:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 15:34:01 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 15:34:21 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 15:35:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:05:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:06:29 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:08:37 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:12:01 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:12:11 BRST 2019 | ERRO: java.io.FileNotFoundException: src\anexos\projetos\src\anexos\projetos\66\o nó.png (O sistema não pode encontrar o caminho especificado)
+HORA: Sun Nov 17 16:13:38 BRST 2019 | ERRO: java.io.FileNotFoundException: src\anexos\projetos\src\anexos\projetos\66\geo.txt (O sistema não pode encontrar o caminho especificado)
+HORA: Sun Nov 17 16:16:07 BRST 2019 | ERRO: java.io.FileNotFoundException: src\anexos\projetos\src\anexos\projetos\66\geo.txt (O sistema não pode encontrar o caminho especificado)
+HORA: Sun Nov 17 16:17:19 BRST 2019 | ERRO: java.io.FileNotFoundException: src\anexos\projetos\src\anexos\projetos\66\geo.txt (O sistema não pode encontrar o caminho especificado)
+HORA: Sun Nov 17 16:18:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:18:50 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:20:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:20:32 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:20:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:22:02 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:22:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:23:58 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:29:47 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:29:54 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:30:18 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:38:57 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:39:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:39:36 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:41:01 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Sun Nov 17 16:41:37 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Sun Nov 17 16:43:37 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Anexos.refUsuario
+HORA: Sun Nov 17 16:43:50 BRST 2019 | ERRO: javax.persistence.PersistenceException: org.hibernate.PropertyValueException: not-null property references a null or transient value : entidade.Anexos.refUsuario
+HORA: Sun Nov 17 16:44:18 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 16:44:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 23:58:27 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 23:59:14 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 23:59:31 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Sun Nov 17 23:59:39 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 00:03:10 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 00:24:09 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 00:56:41 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 00:58:51 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 01:10:09 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 01:10:21 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs (Acesso negado)
+HORA: Mon Nov 18 01:10:59 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents (Acesso negado)
+HORA: Mon Nov 18 01:11:17 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents (Acesso negado)
+HORA: Mon Nov 18 01:20:55 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs (Acesso negado)
+HORA: Mon Nov 18 01:25:05 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs (Acesso negado)
+HORA: Mon Nov 18 01:28:44 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents (Acesso negado)
+HORA: Mon Nov 18 01:29:09 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\ (O sistema não pode encontrar o caminho especificado)
+HORA: Mon Nov 18 01:37:57 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents (Acesso negado)
+HORA: Mon Nov 18 01:38:34 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs (Acesso negado)
+HORA: Mon Nov 18 23:48:15 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 18 23:48:38 BRST 2019 | ERRO: java.nio.channels.NonWritableChannelException
+HORA: Tue Nov 19 00:01:48 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:03:31 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents (Acesso negado)
+HORA: Tue Nov 19 00:04:19 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:07:52 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:08:15 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:08:49 BRST 2019 | ERRO: java.io.FileNotFoundException: C:\Users\rrs\Documents\NetBeansProjects\ARQ_ENG\ARQ_ENG\src\anexos\projetos\66\Rafael Rodrigues TCC I - Versão Final.pdf (O sistema não pode encontrar o arquivo especificado)
+HORA: Tue Nov 19 00:08:55 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:19:07 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:19:12 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:30:36 BRST 2019 | ERRO: java.nio.channels.NonWritableChannelException
+HORA: Tue Nov 19 00:38:59 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Tue Nov 19 00:39:30 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Fri Nov 22 02:41:41 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Fri Nov 22 02:43:11 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Mon Nov 25 22:14:00 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:14:07 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:14:08 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:14:25 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:14:35 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:14:55 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:15:03 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:15:03 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Mon Nov 25 22:15:03 BRST 2019 | ERRO: javax.persistence.NoResultException: No entity found for query
+HORA: Wed Nov 27 00:07:35 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:07:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:07:44 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:00 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:00 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:01 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:04 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:04 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:05 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:09 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:09 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:08:09 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
+HORA: Wed Nov 27 00:13:34 BRST 2019 | ERRO: java.lang.NullPointerException
